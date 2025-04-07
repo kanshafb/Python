@@ -58,3 +58,7 @@ Feel free to explore the scripts and use them for your learning and automation n
 <hr>
 
 _**Note**: The content in this repository belongs to the respective authors and creators. I'm just providing a formatted README.md for better presentation._
+
+
+DEVSECOPS ASSESMENT 
+KANSHA AIDIL FITRI BRAMANTYA 1103210226
